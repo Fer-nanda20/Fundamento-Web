@@ -6,21 +6,26 @@
 }
 
 .container{
-    text-align: justify;
+
     display: flex;
     flex-flow: row;
     justify-content: center;
     align-items: center;
 }
 
+.justify {
+    text-align: justify;
+}
+
+
+
+
 .p1 {
     font-size: 16px;
     text-align: justify;
 }
 
-.justify {
-    text-align: justify;
-}
+
 
 
 #menu li {
